@@ -1,0 +1,101 @@
+{
+   "status": "done",
+   "assets": {
+      "css/completed.css": {
+         "name": "css/completed.css",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\css\\completed.css",
+         "integrity": "sha256-nAXkhq9QhwekMJEWQBzlg4YM30AZoiG0DeVFM6UFq40= sha384-r8gGyLHt5T2cUvl0wluivqiHdyDxfvRNf/W+f82sAx4COZtBIgq0NkMZkSd9F0V8 sha512-Olw6lbv5HrXHj2hiaG7zZ6ftiHVPzJ8Rk9EqLA/hPdXHFEo0v3pOepxWktieD7qGBTgSQn5uQcTgmvfz8kPqGQ=="
+      },
+      "css/index.css": {
+         "name": "css/index.css",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\css\\index.css",
+         "integrity": "sha256-nAXkhq9QhwekMJEWQBzlg4YM30AZoiG0DeVFM6UFq40= sha384-r8gGyLHt5T2cUvl0wluivqiHdyDxfvRNf/W+f82sAx4COZtBIgq0NkMZkSd9F0V8 sha512-Olw6lbv5HrXHj2hiaG7zZ6ftiHVPzJ8Rk9EqLA/hPdXHFEo0v3pOepxWktieD7qGBTgSQn5uQcTgmvfz8kPqGQ=="
+      },
+      "css/login.css": {
+         "name": "css/login.css",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\css\\login.css",
+         "integrity": "sha256-nAXkhq9QhwekMJEWQBzlg4YM30AZoiG0DeVFM6UFq40= sha384-r8gGyLHt5T2cUvl0wluivqiHdyDxfvRNf/W+f82sAx4COZtBIgq0NkMZkSd9F0V8 sha512-Olw6lbv5HrXHj2hiaG7zZ6ftiHVPzJ8Rk9EqLA/hPdXHFEo0v3pOepxWktieD7qGBTgSQn5uQcTgmvfz8kPqGQ=="
+      },
+      "css/register.css": {
+         "name": "css/register.css",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\css\\register.css",
+         "integrity": "sha256-nAXkhq9QhwekMJEWQBzlg4YM30AZoiG0DeVFM6UFq40= sha384-r8gGyLHt5T2cUvl0wluivqiHdyDxfvRNf/W+f82sAx4COZtBIgq0NkMZkSd9F0V8 sha512-Olw6lbv5HrXHj2hiaG7zZ6ftiHVPzJ8Rk9EqLA/hPdXHFEo0v3pOepxWktieD7qGBTgSQn5uQcTgmvfz8kPqGQ=="
+      },
+      "js/completed.js": {
+         "name": "js/completed.js",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\completed.js",
+         "integrity": "sha256-aP/4hVQIudalnm5By+lJXAjL76JkItn9H6555P6fUYA= sha384-PAwie10ZM5kXhBqSBUyGPaFHTdFrYuatzouq1MCI/zKAPoGlRsHsYCzdUzoqYLPW sha512-2H507SCfXYKofSp3bxOP+7PnWpJCrpqUbmRbj8lyIkjgtgXuwual3B/3qPN1D8+xodYhu03HNIctbomXHFs7Gg=="
+      },
+      "js/completed.js.LICENSE.txt": {
+         "name": "js/completed.js.LICENSE.txt",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\completed.js.LICENSE.txt",
+         "integrity": "sha256-zfljztfSWg+YkBpUdke01uLb4Bl/14yHoFmoew5UL+I= sha384-U5LrLNXbe7TUdj31+Lc/wK6xzzXuFpzjttNg5npUFYq8s+SPOcBYtRd/E0WSC5HL sha512-NM/U4bkle9Ktv24vSc8d9CnqtXPb2XDqiYhXJDQvXa1hF6M3rSN2E0IcTbytO1OgmGlqWS7qlWTu7zatTYzbMA=="
+      },
+      "js/index.js": {
+         "name": "js/index.js",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\index.js",
+         "integrity": "sha256-SRe/Lk8O5PYZgEFqZWBdbKO9H4urSoclpRO3JMYKpVk= sha384-oTYoOPmdnEDAAScgmetGYc20PoYtU1VnGhe6EVOyI5kbKC85cLkTOHS9QAANJ+Bc sha512-45TLeo6tHSibdjJX0qaYDfL3bnbRpR3T8ezEUlJ8uWusXLMLVR7zEoG/QMRu+Tp4HUO/oX3HShT/Hcz+JDipbA=="
+      },
+      "js/index.js.LICENSE.txt": {
+         "name": "js/index.js.LICENSE.txt",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\index.js.LICENSE.txt",
+         "integrity": "sha256-zfljztfSWg+YkBpUdke01uLb4Bl/14yHoFmoew5UL+I= sha384-U5LrLNXbe7TUdj31+Lc/wK6xzzXuFpzjttNg5npUFYq8s+SPOcBYtRd/E0WSC5HL sha512-NM/U4bkle9Ktv24vSc8d9CnqtXPb2XDqiYhXJDQvXa1hF6M3rSN2E0IcTbytO1OgmGlqWS7qlWTu7zatTYzbMA=="
+      },
+      "js/login.js": {
+         "name": "js/login.js",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\login.js",
+         "integrity": "sha256-AGaE2UtJ1hfepLeho7fL1aTBg8ROo55tC/PqJBSLVzE= sha384-Nw0YMrAcTJYHi39ooGjo6s9eXZbvxyyQcFJ8Jb/BvU2sZAVihXceLPjee8A0nguq sha512-5n8WMqobRWdEFRlNpvjR0Cc7mXV0jFki2Ny+hx/In4vu3R3ag3jFdaCHAhAF78gfdoeXomM4VWnDabKxrdBO7g=="
+      },
+      "js/login.js.LICENSE.txt": {
+         "name": "js/login.js.LICENSE.txt",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\login.js.LICENSE.txt",
+         "integrity": "sha256-zfljztfSWg+YkBpUdke01uLb4Bl/14yHoFmoew5UL+I= sha384-U5LrLNXbe7TUdj31+Lc/wK6xzzXuFpzjttNg5npUFYq8s+SPOcBYtRd/E0WSC5HL sha512-NM/U4bkle9Ktv24vSc8d9CnqtXPb2XDqiYhXJDQvXa1hF6M3rSN2E0IcTbytO1OgmGlqWS7qlWTu7zatTYzbMA=="
+      },
+      "js/register.js": {
+         "name": "js/register.js",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\register.js",
+         "integrity": "sha256-uXCxKdfh4mfUc73Kp87m/D7r6zedtnRsAy5C8w9POhM= sha384-yK8hT1/52xLlQ6i3DsgyCX3C3sKBPm5UnBvLANhoSEjqIh9/cIjxjCED1cpDIG16 sha512-sWyUmJ2A8Y+Je/BPJ6lcLkgEpyzrq18ATz18LvKEK3VBbXeJCospIhp6MhLjsyuA4NQ+P+njdAeUtoH74F+bUg=="
+      },
+      "js/register.js.LICENSE.txt": {
+         "name": "js/register.js.LICENSE.txt",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\register.js.LICENSE.txt",
+         "integrity": "sha256-zfljztfSWg+YkBpUdke01uLb4Bl/14yHoFmoew5UL+I= sha384-U5LrLNXbe7TUdj31+Lc/wK6xzzXuFpzjttNg5npUFYq8s+SPOcBYtRd/E0WSC5HL sha512-NM/U4bkle9Ktv24vSc8d9CnqtXPb2XDqiYhXJDQvXa1hF6M3rSN2E0IcTbytO1OgmGlqWS7qlWTu7zatTYzbMA=="
+      },
+      "js/shared.js": {
+         "name": "js/shared.js",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\shared.js",
+         "integrity": "sha256-bp9iFIU0XbstPquBrOk/mRD4LVaGa6tciJsVHMvXKLk= sha384-cc6qzMJZOOLJcZxFlgRjJQdbBJ3pRLW9gxpiuXx4l5m9XTYuCT2nuKqn6wGL7FTK sha512-+zOd0okFaVdnDF67nOl7m1dDvPbhDDyPm220/52HfoLuXtHYaWP7Mv4q+G9YyatDowNxJFgH4gkfBb/y7KwAxA=="
+      },
+      "js/shared.js.LICENSE.txt": {
+         "name": "js/shared.js.LICENSE.txt",
+         "path": "C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\static\\files\\js\\shared.js.LICENSE.txt",
+         "integrity": "sha256-/Z5pHxjzbXq4hTxF18doDbL+6k2KGC7bozcSufiqI5Y= sha384-mywOx9mBFutJfbKNR67sFEvBKAyq6xB9OLBpawrcnXS+G9Y6cp3MCaAIzR+NZX7Y sha512-hYvw2zRj1174OiWV02d1JJ8KkofVMaHt7W6ysdHOYPCpvq+0/5eKzdLskIIkpMWtGhjLyJtSCQZVwkHwsURzhA=="
+      }
+   },
+   "chunks": {
+      "completed": [
+         "js/shared.js",
+         "css/completed.css",
+         "js/completed.js"
+      ],
+      "index": [
+         "js/shared.js",
+         "css/index.css",
+         "js/index.js"
+      ],
+      "login": [
+         "js/shared.js",
+         "css/login.css",
+         "js/login.js"
+      ],
+      "register": [
+         "js/shared.js",
+         "css/register.css",
+         "js/register.js"
+      ]
+   },
+   "startTime": 1715721765398,
+   "endTime": 1715721771418,
+   "error": "ModuleBuildError",
+   "message": "Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\src\\component\\CompletedTask.js: Unexpected token, expected \":\" (49:8)\n\n  47 |           return <List key={item.id} item={item} />\n  48 |         }\n> 49 |       })}\n     |         ^\n  50 |     </div>\n  51 |   );\n  52 |\n    at constructor (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:356:19)\n    at JSXParserMixin.raise (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:3223:19)\n    at JSXParserMixin.unexpected (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:3253:16)\n    at JSXParserMixin.expect (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:3590:28)\n    at JSXParserMixin.parseConditional (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10652:12)\n    at JSXParserMixin.parseMaybeConditional (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10645:17)\n    at JSXParserMixin.parseMaybeAssign (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10602:21)\n    at JSXParserMixin.parseExpressionBase (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10556:23)\n    at C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10552:39\n    at JSXParserMixin.allowInAnd (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:12289:12)\n    at JSXParserMixin.parseExpression (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10552:17)\n    at JSXParserMixin.jsxParseExpressionContainer (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:6797:31)\n    at JSXParserMixin.jsxParseElementAt (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:6876:36)\n    at JSXParserMixin.jsxParseElement (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:6920:17)\n    at JSXParserMixin.parseExprAtom (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:6932:19)\n    at JSXParserMixin.parseExprSubscripts (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10862:23)\n    at JSXParserMixin.parseUpdate (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10845:21)\n    at JSXParserMixin.parseMaybeUnary (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10821:23)\n    at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10659:61)\n    at JSXParserMixin.parseExprOps (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10664:23)\n    at JSXParserMixin.parseMaybeConditional (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10641:23)\n    at JSXParserMixin.parseMaybeAssign (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10602:21)\n    at C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10572:39\n    at JSXParserMixin.allowInAnd (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:12289:12)\n    at JSXParserMixin.parseMaybeAssignAllowIn (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10572:17)\n    at JSXParserMixin.parseParenAndDistinguishExpression (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:11504:28)\n    at JSXParserMixin.parseExprAtom (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:11142:23)\n    at JSXParserMixin.parseExprAtom (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:6937:20)\n    at JSXParserMixin.parseExprSubscripts (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10862:23)\n    at JSXParserMixin.parseUpdate (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10845:21)\n    at JSXParserMixin.parseMaybeUnary (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10821:23)\n    at JSXParserMixin.parseMaybeUnaryOrPrivate (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10659:61)\n    at JSXParserMixin.parseExprOps (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10664:23)\n    at JSXParserMixin.parseMaybeConditional (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10641:23)\n    at JSXParserMixin.parseMaybeAssign (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10602:21)\n    at JSXParserMixin.parseExpressionBase (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10556:23)\n    at C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10552:39\n    at JSXParserMixin.allowInAnd (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:12284:16)\n    at JSXParserMixin.parseExpression (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:10552:17)\n    at JSXParserMixin.parseReturnStatement (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:13008:28)\n    at JSXParserMixin.parseStatementContent (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:12626:21)\n    at JSXParserMixin.parseStatementLike (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:12593:17)\n    at JSXParserMixin.parseStatementListItem (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:12573:17)\n    at JSXParserMixin.parseBlockOrModuleBlockBody (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:13194:61)\n    at JSXParserMixin.parseBlockBody (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:13187:10)\n    at JSXParserMixin.parseBlock (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:13175:10)\n    at JSXParserMixin.parseFunctionBody (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:11940:24)\n    at JSXParserMixin.parseArrowExpression (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:11915:10)\n    at JSXParserMixin.parseParenAndDistinguishExpression (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:11516:12)\n    at JSXParserMixin.parseExprAtom (C:\\Users\\Kohsari Computer\\Desktop\\TEST_TODO-main\\react_todo\\node_modules\\@babel\\parser\\lib\\index.js:11142:23)"
+}

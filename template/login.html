@@ -1,0 +1,14 @@
+{% load render_bundle from webpack_loader %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    {% render_bundle 'login' 'css' %}
+</head>
+<body>
+    <div id="root_login"></div>
+</body>
+    {% render_bundle 'login' 'js' %}
+</html>
